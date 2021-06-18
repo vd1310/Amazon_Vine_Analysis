@@ -12,17 +12,15 @@
 ##### Non Vine reviews: 40471
 
 #### B: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-##### Vine reviews: 51.06
-##### Non Vine reviews: 38.70
-
-#### C: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ##### Vine reviews: 48
 ##### Non Vine reviews: 15663
 
+#### C: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+##### Vine reviews: 51.06
+##### Non Vine reviews: 38.70
+
 ![alt text](https://github.com/vd1310/Amazon_Vine_Analysis/blob/main/D1.PNG)
 
-
-#### C: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ### Summary:
 ##### As we can see that about 51% of the reviews in the dataset were 5 stars reviews verses non-Vine reviews which is only 39%. This indicates a positivity bias for reviews in the Vine program.
