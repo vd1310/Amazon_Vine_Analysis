@@ -1,7 +1,6 @@
 # Amazon_Vine_Analysis
 
 ## Overview of Project
-
 ### Purpose: the purpose of this project is to analyze Amazon Vine program data sets and check if there is any bias toward favorable reviews from Vine members in selected dataset. Dateset selected: Reviews for video games.
 #### Deliverable 1: Perform ETL on Amazon Product Reviews
 #### Deliverable 2: Determine Bias of Vine Reviews
