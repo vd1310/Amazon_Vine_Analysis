@@ -13,6 +13,10 @@
 ##### Non Vine reviews: 40471
 
 #### B: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+##### Vine reviews: 51.06
+##### Non Vine reviews: 38.70
+
+#### C: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ##### Vine reviews: 48
 ##### Non Vine reviews: 15663
 
