@@ -12,12 +12,11 @@
 ##### Vine reviews: 94
 ##### Non Vine reviews: 40471
 
+#### B: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+##### Vine reviews: 48
+##### Non Vine reviews: 15663
+
 ![alt text](https://github.com/vd1310/Amazon_Vine_Analysis/blob/main/D1.PNG)
-
-#### B: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-
-
-#### B: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 
 #### C: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
