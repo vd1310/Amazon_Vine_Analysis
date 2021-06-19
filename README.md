@@ -21,6 +21,12 @@
 
 ![alt text](https://github.com/vd1310/Amazon_Vine_Analysis/blob/main/D1.PNG)
 
+##### PG Tables loaded:
+![alt text](https://github.com/vd1310/Amazon_Vine_Analysis/blob/main/cust.PNG)
+![alt text](https://github.com/vd1310/Amazon_Vine_Analysis/blob/main/prod.PNG)
+![alt text](https://github.com/vd1310/Amazon_Vine_Analysis/blob/main/rev_id.PNG)
+![alt text](https://github.com/vd1310/Amazon_Vine_Analysis/blob/main/vine.PNG)
+
 
 ### Summary:
 ##### As we can see that about 51% of the reviews in the dataset were 5 stars reviews verses non-Vine reviews which is only 39%. This indicates a positivity bias for reviews in the Vine program.
